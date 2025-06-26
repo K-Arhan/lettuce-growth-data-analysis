@@ -39,7 +39,7 @@ You can explore the original interactive charts and formulas here:
 
 📄 Scope of Work (SOW)
 
-A detailed Scope of Work (SOW) outlining the project objectives, deliverables, activities, and timeline is included in the repository:
+A detailed Scope of Work (SOW) outlining the project objectives, deliverables, activities, and timeline is included in the repository: https://github.com/K-Arhan/lettuce-growth-data-analysis/raw/main/Scope-Of-Work%20.docx
 
 
 
