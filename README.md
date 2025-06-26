@@ -37,6 +37,11 @@ Project Duration: June 24–26, 2025
 You can explore the original interactive charts and formulas here:  
 👉https://docs.google.com/spreadsheets/d/1H-ZzOtp3gkLusBB6TQBYLAilp4hWrHBqWE7oS6BV3d4/edit?usp=sharing
 
+📄 Scope of Work (SOW)
+
+A detailed Scope of Work (SOW) outlining the project objectives, deliverables, activities, and timeline is included in the repository: [View SOW.md](./SOW.md)
+
+
 
 ## 👨‍💼 Author
 
