@@ -39,7 +39,7 @@ You can explore the original interactive charts and formulas here:
 
 📄 Scope of Work (SOW)
 
-A detailed Scope of Work (SOW) outlining the project objectives, deliverables, activities, and timeline is included in the repository: [View SOW.md](./SOW.md)
+A detailed Scope of Work (SOW) outlining the project objectives, deliverables, activities, and timeline is included in the repository:
 
 
 
